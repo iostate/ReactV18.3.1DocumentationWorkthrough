@@ -1,9 +1,9 @@
-import Board from './Board';
+import Game from './Game';
 
 const TicTacToe = () => {
   return (
     <div className='items-center'>
-      <Board />
+      <Game />
     </div>
   );
 };
