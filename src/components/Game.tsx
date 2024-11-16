@@ -204,3 +204,5 @@ function calculateWinner(squares: Squares) {
   }
   return null;
 }
+
+export default Game;
